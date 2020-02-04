@@ -172,12 +172,12 @@ p.testimonial {
     margin-bottom: 5px;
 }
 
-.lang-on {
-    width: 50px;
-    height: 30px;
+.lang-off {
+    width: 40px;
+    height: 20px;
 }
 
-.lang-off {
+.lang-on {
     width: 50px;
     height: 30px;
 }
