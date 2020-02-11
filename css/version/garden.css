@@ -186,3 +186,18 @@ p.testimonial {
     background-color: #34bf49 !important;
     color: white !important;
 }
+
+.pp-bottom {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+}
+
+ul.none {
+    list-style-type: none;
+}
+
+span.foot-image {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
