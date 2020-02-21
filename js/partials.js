@@ -1,19 +1,16 @@
 
-// $(document).ready(function($) {
-//   loadMenu();
-// });
+document.addEventListener("DOMContentLoaded", loadPartials);
 
-document.addEventListener("DOMContentLoaded", loadMenu);
+function loadPartials() {
 
-function loadMenu() {
-  console.log('Loading Menu!')
+
+  $('#topbar-content').load('partials/topbar-content.html')
 
   $('#header-navbar').load('partials/header-navbar.html')
 
-  // $.get("partials/header-navbar.html")
-  // .done((data) => {
-  //     $('#header-navbar').html(data) ;
-  // });
+  $('#footer-content').load('partials/footer-content.html')
+
+
 
 }
 
