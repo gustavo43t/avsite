@@ -1,8 +1,9 @@
-$(document).ready(function($) {
 
-  loadMenu();
-});
+// $(document).ready(function($) {
+//   loadMenu();
+// });
 
+document.addEventListener("DOMContentLoaded", loadMenu);
 
 function loadMenu() {
   console.log('Loading Menu!')
