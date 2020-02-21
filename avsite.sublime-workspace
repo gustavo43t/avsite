@@ -1,0 +1,2054 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"col-lg-12"
+			],
+			[
+				"valo",
+				"valor_unit"
+			],
+			[
+				"quan",
+				"quant_insumo"
+			],
+			[
+				"locai",
+				"locais_ids"
+			],
+			[
+				"loc",
+				"locais_perm"
+			],
+			[
+				"all",
+				"all_locais"
+			],
+			[
+				"ve",
+				"verificacao"
+			],
+			[
+				"ite",
+				"item"
+			],
+			[
+				"item",
+				"item_par"
+			],
+			[
+				"ta",
+				"tarefa"
+			],
+			[
+				"coll",
+				"collection"
+			],
+			[
+				"forge_",
+				"forge_obras"
+			],
+			[
+				"verifi",
+				"verificacao_id"
+			],
+			[
+				"Re",
+				"realizado"
+			],
+			[
+				"For",
+				"Forge"
+			],
+			[
+				"json",
+				"json_request"
+			],
+			[
+				"js",
+				"json_request"
+			],
+			[
+				"func",
+				"funcionarios"
+			],
+			[
+				"parti",
+				"participante"
+			],
+			[
+				"part",
+				"part_ids"
+			],
+			[
+				"par",
+				"participantes"
+			],
+			[
+				"empr",
+				"empregado"
+			],
+			[
+				"fun",
+				"fun_par"
+			],
+			[
+				"obra",
+				"obra_id"
+			],
+			[
+				"emp",
+				"empregado_id"
+			],
+			[
+				"em",
+				"empregado_type"
+			],
+			[
+				"dt",
+				"dt_nasc"
+			],
+			[
+				"se",
+				"secao"
+			],
+			[
+				"ob",
+				"obras"
+			],
+			[
+				"sc",
+				"scope"
+			],
+			[
+				"prem",
+				"premio_pagos"
+			],
+			[
+				"ho",
+				"horas_extras\t(pontos Col)"
+			],
+			[
+				"obr",
+				"obra_id\t(rh_funcionarios Col)"
+			],
+			[
+				"pr",
+				"periodo_id"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"clas",
+				"classes"
+			],
+			[
+				"ref",
+				"refresh_show"
+			],
+			[
+				"fech",
+				"fechada"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"class",
+				"classe"
+			],
+			[
+				"recor",
+				"records"
+			],
+			[
+				"tercero",
+				"terceiro_alocado"
+			],
+			[
+				"mes",
+				"meses_btn"
+			],
+			[
+				"gree",
+				"green_buttons"
+			],
+			[
+				"qua",
+				"quant_periodos"
+			],
+			[
+				"las",
+				"last_fechada_datahora"
+			],
+			[
+				"tab",
+				"tab_columns_w"
+			],
+			[
+				"ind",
+				"ind_dia"
+			],
+			[
+				"da",
+				"data_somada"
+			],
+			[
+				"dat",
+				"data_somada"
+			],
+			[
+				"data",
+				"data_br"
+			],
+			[
+				"Jan",
+				"Jantar"
+			],
+			[
+				"ac",
+				"aceitar_quantidade"
+			],
+			[
+				"tit",
+				"title_email"
+			],
+			[
+				"last",
+				"last_atendida_datahora"
+			],
+			[
+				"def",
+				"def_opts"
+			],
+			[
+				"CrS",
+				"CrShowBodyDiv"
+			],
+			[
+				"prazo_",
+				"prazo_atendida"
+			],
+			[
+				"praz",
+				"dias_prazo"
+			],
+			[
+				"atend",
+				"atendidas_por"
+			],
+			[
+				"co",
+				"cont"
+			],
+			[
+				"ask",
+				"ask_desligar"
+			],
+			[
+				"terce",
+				"terceiro"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"terceiro",
+				"terceiro_id"
+			],
+			[
+				"des",
+				"desligar_params"
+			],
+			[
+				"pa",
+				"patch"
+			],
+			[
+				"terc",
+				"terceiro_id"
+			],
+			[
+				"ter",
+				"terceiro"
+			],
+			[
+				"data_",
+				"data_ini"
+			],
+			[
+				"forne",
+				"fornecedor_na_data"
+			],
+			[
+				"tip",
+				"tipo_quan"
+			],
+			[
+				"dia",
+				"diario_id"
+			],
+			[
+				"su",
+				"submitonchange"
+			],
+			[
+				"sel",
+				"selValue"
+			],
+			[
+				"multi",
+				"multiplos"
+			],
+			[
+				"th",
+				"that"
+			],
+			[
+				"mult",
+				"multiplos"
+			],
+			[
+				"bt",
+				"btn_baixar"
+			],
+			[
+				"mul",
+				"multiple_on"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"medi",
+				"medicao_id"
+			],
+			[
+				"be",
+				"between"
+			],
+			[
+				"forn",
+				"fornecedor_id"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"envia",
+				"enviar_ata"
+			],
+			[
+				"nome",
+				"nome_arquivo"
+			],
+			[
+				"etapa",
+				"etapans"
+			],
+			[
+				"eta",
+				"eta_ids"
+			],
+			[
+				"anex",
+				"anexable_type"
+			],
+			[
+				"us",
+				"user_id"
+			],
+			[
+				"ad",
+				"admin_ids"
+			],
+			[
+				"emprei",
+				"empreiteira_id"
+			],
+			[
+				"no",
+				"no_record_msg"
+			],
+			[
+				"re",
+				"ref_pedidos"
+			],
+			[
+				"t",
+				"tipo"
+			],
+			[
+				"ece",
+				"except"
+			],
+			[
+				"envi",
+				"enviar_todos"
+			],
+			[
+				"confirmar_",
+				"confirmar_participacao"
+			],
+			[
+				"reun",
+				"reuniao_id"
+			],
+			[
+				"val",
+				"validade"
+			],
+			[
+				"err",
+				"error_message"
+			],
+			[
+				"che",
+				"checkbox"
+			],
+			[
+				"ti",
+				"tipo_to_s"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"compo",
+				"composicoes"
+			],
+			[
+				"cu",
+				"curr_revision"
+			],
+			[
+				"v",
+				"valor_total"
+			],
+			[
+				"o",
+				"obra_id"
+			],
+			[
+				"fin",
+				"find_by"
+			],
+			[
+				"sal",
+				"sal_lines_producao"
+			],
+			[
+				"sco",
+				"scope_sel"
+			],
+			[
+				"perio",
+				"periodo_id"
+			],
+			[
+				"indi",
+				"indicador_scope_sel"
+			],
+			[
+				"inc",
+				"include_admin"
+			],
+			[
+				"indic",
+				"indicador_id"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"rh_",
+				"rh_valores"
+			],
+			[
+				"peri",
+				"periodo_id"
+			],
+			[
+				"calcu",
+				"calcula_sexo"
+			],
+			[
+				"et",
+				"et_ids"
+			],
+			[
+				"btn",
+				"btn_print"
+			],
+			[
+				"marca",
+				"marcados_na_mao"
+			],
+			[
+				"colo",
+				"colorpainted"
+			],
+			[
+				"calculos",
+				"calculos_errados_ids"
+			],
+			[
+				"exe",
+				"exec_mes"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 26318,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "publications.html",
+			"settings":
+			{
+				"buffer_size": 12465,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/gustavo/pro/av/original-forest-time_site/garden-index.html",
+			"settings":
+			{
+				"buffer_size": 26648,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/gustavo/pro/av/original-forest-time_site/garden-single.html",
+			"settings":
+			{
+				"buffer_size": 37457,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 274.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"cha bra",
+				"Git: Change Branch"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"add..",
+				"Git: Add..."
+			],
+			[
+				"new bra",
+				"Git: New Branch"
+			],
+			[
+				"pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"q",
+				"Git: Quick Commit"
+			],
+			[
+				"del b",
+				"Git: Delete Branch"
+			],
+			[
+				"cha",
+				"Git: Change Branch"
+			],
+			[
+				"cha br",
+				"Git: Change Branch"
+			],
+			[
+				"cha b",
+				"Git: Change Branch"
+			],
+			[
+				"add.",
+				"Git: Add..."
+			],
+			[
+				"del ",
+				"Git: Delete Branch"
+			],
+			[
+				"git pu",
+				"Git: Pull Current Branch"
+			],
+			[
+				"new",
+				"Git: New Branch"
+			],
+			[
+				"add...",
+				"Git: Add..."
+			],
+			[
+				"new ",
+				"Git: New Branch"
+			],
+			[
+				"br",
+				"Git: Delete Branch"
+			],
+			[
+				"del bra",
+				"Git: Delete Branch"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"cha ",
+				"Git: Change Branch"
+			],
+			[
+				"del br",
+				"Git: Delete Branch"
+			],
+			[
+				"rem",
+				"Git: Remote"
+			],
+			[
+				"git pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"git rem",
+				"Git: Remote"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"merg",
+				"Git: Merge"
+			],
+			[
+				"cha gra",
+				"Git: Change Branch"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"git re",
+				"Git: Remote"
+			],
+			[
+				"git add re",
+				"Git: Add Remote"
+			],
+			[
+				"git remo",
+				"Git: Remote"
+			],
+			[
+				"new br",
+				"Git: New Branch"
+			],
+			[
+				"qiu",
+				"Git: Quick Commit"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"ch",
+				"Git: Change Branch"
+			],
+			[
+				"ad..",
+				"Git: Add..."
+			],
+			[
+				"git me",
+				"Git: Merge Branch"
+			],
+			[
+				"new b",
+				"Git: New Branch"
+			],
+			[
+				"git mer",
+				"Git: Merge"
+			],
+			[
+				"ch ",
+				"Git: Change Branch"
+			],
+			[
+				"mer",
+				"Git: Merge"
+			],
+			[
+				"corr dia",
+				"Package Control: Discover Packages"
+			],
+			[
+				"q..",
+				"Snippet: require \"tc_..\" .."
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"...",
+				"Snippet: require \"tc_..\" .."
+			],
+			[
+				"git remote",
+				"Git: Remote"
+			],
+			[
+				"add ..",
+				"Git: Add..."
+			],
+			[
+				"htm",
+				"HTML2Haml: Convert file"
+			],
+			[
+				"del",
+				"Git: Delete Branch"
+			],
+			[
+				"git merge",
+				"Git: Merge Branch"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"chab",
+				"Git: Change Branch"
+			],
+			[
+				"qi",
+				"Git: Quick Commit"
+			],
+			[
+				"cha bra ",
+				"Git: Change Branch"
+			],
+			[
+				"new bra ",
+				"Git: New Branch"
+			],
+			[
+				"ch b",
+				"Git: Change Branch"
+			],
+			[
+				"..",
+				"Snippet: require \"tc_..\" .."
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"....",
+				"Snippet: require \"tc_..\" .."
+			],
+			[
+				"html",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"ne",
+				"Git: New Branch"
+			],
+			[
+				"ha bra",
+				"Git: Change Branch"
+			],
+			[
+				"git chang",
+				"Git: Change Branch"
+			],
+			[
+				"remo",
+				"Git: Remote"
+			],
+			[
+				"git",
+				"Git: Remote"
+			],
+			[
+				"puch",
+				"Git: Pull Current Branch"
+			],
+			[
+				"cha n",
+				"Git: Change Branch"
+			],
+			[
+				"git ",
+				"Git: Remote"
+			],
+			[
+				"ch bra",
+				"Git: Change Branch"
+			],
+			[
+				"qui...",
+				"Snippet: require \"tc_..\" .."
+			],
+			[
+				"quio",
+				"Git: Quick Commit"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git pul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"qo",
+				"Git: Quick Commit"
+			],
+			[
+				"add ...",
+				"Git: Add..."
+			],
+			[
+				"remote",
+				"Git: Remote"
+			],
+			[
+				"re",
+				"Git: Remote"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"nre bra",
+				"Git: New Branch"
+			],
+			[
+				"c",
+				"Git: Change Branch"
+			],
+			[
+				"a",
+				"Git: Add..."
+			],
+			[
+				"me",
+				"Git: Merge Branch"
+			],
+			[
+				"meg",
+				"Git: Merge Branch"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"n",
+				"Git: New Branch"
+			],
+			[
+				"bra",
+				"Git: Delete Branch"
+			],
+			[
+				"qio",
+				"Git: Quick Commit"
+			],
+			[
+				"qoi",
+				"Git: Quick Commit"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"reom",
+				"Git: Remote"
+			],
+			[
+				"merge",
+				"Git: Merge"
+			],
+			[
+				"dele",
+				"Git: Delete Branch"
+			],
+			[
+				"chabra",
+				"Git: Change Branch"
+			],
+			[
+				"ad.",
+				"Git: Add..."
+			],
+			[
+				"git pull ",
+				"Git: Pull Current Branch"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"merg ",
+				"Git: Merge"
+			],
+			[
+				"merg bra",
+				"Git: Merge Branch"
+			],
+			[
+				"m",
+				"Git: Merge Branch"
+			],
+			[
+				"che bra",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git romt",
+				"Git: Add Remote"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ht",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"tip",
+				"Package Control: Install Package"
+			],
+			[
+				"git add..",
+				"Git: Add..."
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"mer bra",
+				"Git: Merge Branch"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"git sh",
+				"Git: Show"
+			],
+			[
+				"git diff",
+				"Git: Diff Cached"
+			],
+			[
+				"git log",
+				"Git: Log"
+			],
+			[
+				"add cu",
+				"Git: Add Current File"
+			],
+			[
+				"merge bra",
+				"Git: Merge Branch"
+			],
+			[
+				"push bra",
+				"Git: Push Current Branch"
+			],
+			[
+				"git new br",
+				"Git: Checkout New Branch"
+			],
+			[
+				"ad...",
+				"Git: Add..."
+			],
+			[
+				"merg br",
+				"Git: Merge Branch"
+			],
+			[
+				"push ",
+				"Git: Push Current Branch"
+			],
+			[
+				"mreg bra",
+				"Git: Merge Branch"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"control",
+				"Package Control: List Packages"
+			],
+			[
+				"git unme",
+				"GitStatus: Unmerged files"
+			]
+		],
+		"width": 533.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"git branch -D apontamento_form",
+			"rake routes",
+			"Package Control: Install Package",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"Package Control: Install Package",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"Package Control: Install Package"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/gustavo/pro/av/avsite",
+		"/home/gustavo/pro/av/avsite/images",
+		"/home/gustavo/pro/av/avsite/images/av"
+	],
+	"file_history":
+	[
+		"/home/gustavo/pro/rails/cp/app/cells/tarefa/show_insumos.haml",
+		"/home/gustavo/pro/rails/cp/app/cells/for/fornecedores/terceiros/table_line_cell.rb",
+		"/home/gustavo/pro/rails/cp/app/components/crud/calendar_show210.vue",
+		"/home/gustavo/pro/rails/cp/app/components/comp/cmp-datepicker.vue",
+		"/home/gustavo/pro/rails/cp/app/controllers/for/fornecedores/terceiros_controller.rb",
+		"/home/gustavo/pro/rails/cp/app/cells/par/parametros/table_line_cell.rb",
+		"/home/gustavo/pro/rails/cp/app/classes/daemon_teste.rb",
+		"/home/gustavo/pro/rails/cp/app/cells/forms/menu/navigation.haml",
+		"/home/gustavo/pro/rails/cp/db/sql/tarefas_calcula_disponibilidade_banco.sql",
+		"/home/gustavo/pro/rails/cp/app/models/obra.rb",
+		"/home/gustavo/pro/rails/cp/db/migrate/20171220140000_create_banco_horas.rb",
+		"/home/gustavo/pro/rails/cp/app/controllers/horas_banco_controller.rb",
+		"/home/gustavo/pro/rails/cp/app/controllers/jobs_controller.rb",
+		"/home/gustavo/Desktop/Anotações.txt",
+		"/home/gustavo/pro/rails/cp/app/policies/application_policy.rb",
+		"/home/gustavo/pro/rails/cp/app/policies/fvs/fiscal_policy.rb",
+		"/home/gustavo/pro/rails/cp/app/controllers/arq_envios_controller.rb",
+		"/home/gustavo/pro/rails/cp/app/controllers/rh/indicadores_controller.rb",
+		"/home/gustavo/pro/rails/cp/app/controllers/simples_controller.rb",
+		"/home/gustavo/pro/rails/cp/app/views/simples/updated_dom_id_hide.js.haml",
+		"/home/gustavo/pro/rails/cp/app/controllers/obras/fvs_fiscais_controller.rb",
+		"/home/gustavo/pro/rails/cp/app/controllers/fvs_fiscais_controller.rb",
+		"/home/gustavo/pro/rails/cp/app/cells/obras/fvs/fiscal/ask_tarefas.haml",
+		"/home/gustavo/pro/rails/cp/app/cells/arq/envio_cell.rb",
+		"/home/gustavo/pro/rails/cp/app/cells/allocation/form.haml",
+		"/home/gustavo/pro/rails/cp/app/cells/local_arquivo/form.haml",
+		"/home/gustavo/pro/rails/cp/app/controllers/api/obra/model3ds_controller.rb",
+		"/home/gustavo/pro/rails/cp/app/cells/obras/fvs/table_line_cell.rb",
+		"/home/gustavo/pro/rails/cp/app/cells/obras/fvs/fiscais/table_line_cell.rb",
+		"/home/gustavo/pro/rails/cp/app/cells/obras/fvs/fiscal/form.haml",
+		"/home/gustavo/pro/rails/cp/config/initializers/inflections.rb",
+		"/home/gustavo/pro/rails/cp/app/cells/concerns/field_renderable.rb",
+		"/home/gustavo/pro/rails/cp/app/cells/base/crud_vue_cell.rb",
+		"/home/gustavo/pro/rails/cp/app/cells/obras/qualidade_cell.rb",
+		"/home/gustavo/pro/rails/cp/app/cells/obras/fvs/fiscal_cell.rb",
+		"/home/gustavo/pro/rails/cp/app/models/tarefa.rb",
+		"/home/gustavo/pro/rails/cp/app/models/user.rb",
+		"/home/gustavo/pro/rails/cp/app/models/concerns/user_allocated_cp.rb",
+		"/home/gustavo/pro/rails/cp/app/models/concerns/user_allocated_gn.rb",
+		"/home/gustavo/pro/rails/cp/app/models/fvs/fiscal.rb",
+		"/home/gustavo/pro/av/avsite/facilitation_and_planning.html",
+		"/home/gustavo/pro/rails/cp/app/models/concerns/policiable.rb",
+		"/home/gustavo/pro/rails/cp/app/models/local.rb",
+		"/home/gustavo/pro/rails/cp/app/models/tipo/local.rb",
+		"/home/gustavo/pro/rails/cp/app/models/ter/terceiro_alocado.rb",
+		"/home/gustavo/pro/av/avsite/index.html",
+		"/home/gustavo/pro/rails/cp/app/cells/dividir_tarefa_cell.rb",
+		"/home/gustavo/pro/rails/cp/app/cells/arq/caixa/envios/form.haml",
+		"/home/gustavo/pro/rails/cp/app/controllers/acoes_controller.rb",
+		"/home/gustavo/pro/rails/cp/app/models/arq/local_arquivo_envio.rb",
+		"/home/gustavo/pro/rails/cp/app/models/fvs/realizado.rb",
+		"/home/gustavo/pro/rails/cp/db/migrate/20200209160000_create_models_fvs_sesi.rb",
+		"/home/gustavo/pro/rails/cp/app/classes/raw_sql.rb",
+		"/home/gustavo/pro/rails/cp/app/classes/importar_cronograma_equipe.rb",
+		"/home/gustavo/pro/rails/cp/app/models/importacao.rb",
+		"/home/gustavo/pro/rails/cp/app/models/equipe_agenda.rb",
+		"/home/gustavo/pro/rails/cp/app/models/cronograma.rb",
+		"/home/gustavo/pro/rails/cp/app/controllers/calculo_premios_controller.rb",
+		"/home/gustavo/pro/rails/cp/app/classes/premio_form.rb",
+		"/home/gustavo/pro/rails/cp/app/classes/premio_calc.rb",
+		"/home/gustavo/pro/rails/cp/app/cells/calculo_premio/show_mdo_orcada.haml",
+		"/home/gustavo/pro/rails/cp/app/cells/calculo_premio_cell.rb",
+		"/home/gustavo/pro/rails/cp/app/models/calculo_premio.rb",
+		"/home/gustavo/pro/rails/cp/app/controllers/api/simples_controller.rb",
+		"/home/gustavo/pro/rails/cp/app/models/fvs/fvs_iten.rb",
+		"/home/gustavo/pro/rails/cp/app/controllers/fvs_controller.rb",
+		"/home/gustavo/pro/rails/cp/app/controllers/api/fvs/local_controller.rb",
+		"/home/gustavo/pro/rails/cp/app/services/base/service.rb",
+		"/home/gustavo/pro/rails/cp/app/cells/fvs/verificacao/itens/table_line_cell.rb",
+		"/home/gustavo/pro/rails/cp/app/services/base/default_create_service.rb",
+		"/home/gustavo/pro/rails/cp/app/policies/forge/obra_policy.rb",
+		"/home/gustavo/pro/rails/cp/app/policies/fvs/realizado_policy.rb",
+		"/home/gustavo/pro/rails/cp/app/services/base/default_update_service.rb",
+		"/home/gustavo/pro/rails/cp/app/controllers/application_controller.rb",
+		"/home/gustavo/pro/rails/cp/app/controllers/api/sessions_controller.rb",
+		"/home/gustavo/pro/rails/cp/app/models/fvs/tarefa.rb",
+		"/home/gustavo/pro/rails/cp/app/models/fvs/fvs_obra.rb",
+		"/home/gustavo/pro/rails/cp/app/models/fvs/verificacao.rb",
+		"/home/gustavo/pro/rails/cp/app/models/forge/obra.rb",
+		"/home/gustavo/pro/rails/cp/config/database.yml",
+		"/home/gustavo/pro/rails/cp/app/models/formulario.rb",
+		"/home/gustavo/pro/rails/cp/app/controllers/formularios_controller.rb",
+		"/home/gustavo/pro/rails/cp/app/services/formulario_update_service.rb",
+		"/home/gustavo/pro/rails/cp/app/components/form/groups_editor.vue",
+		"/home/gustavo/pro/rails/cp/app/models/arq/assunto.rb",
+		"/home/gustavo/pro/rails/cp/app/controllers/banco_hora_movimentos_controller.rb",
+		"/home/gustavo/pro/rails/cp/app/models/fvs/fvs_formulario.rb",
+		"/home/gustavo/pro/rails/cp/app/models/fvs/realizado_comentario.rb",
+		"/home/gustavo/pro/rails/cp/app/models/arquivo.rb",
+		"/home/gustavo/pro/rails/cp/app/models/concerns/anexable.rb",
+		"/home/gustavo/pro/rails/cp/app/cells/acao_cell.rb",
+		"/home/gustavo/pro/rails/cp/app/uploaders/imagem_do_uploader.rb",
+		"/home/gustavo/pro/rails/cp/app/models/acao.rb",
+		"/home/gustavo/pro/rails/cp/app/models/plano.rb",
+		"/home/gustavo/pro/rails/cp/app/models/etapan.rb",
+		"/home/gustavo/pro/rails/cp/app/models/concerns/fvs_realizado_plano_de_acao.rb",
+		"/home/gustavo/pro/rails/cp/app/models/ciclo.rb",
+		"/home/gustavo/pro/rails/cp/app/models/forge/local.rb",
+		"/home/gustavo/pro/rails/cp/app/models/mapa.rb",
+		"/home/gustavo/pro/rails/cp/app/uploaders/imagem_uploader.rb",
+		"/home/gustavo/pro/rails/cp/app/models/quem.rb",
+		"/home/gustavo/pro/rails/cp/app/models/anexo.rb",
+		"/home/gustavo/pro/rails/cp/app/views/devise/sessions/new.json",
+		"/home/gustavo/pro/rails/cp/app/models/api_user.rb",
+		"/home/gustavo/pro/rails/cp/app/controllers/api/concerns/exception_handler.rb",
+		"/home/gustavo/pro/rails/cp/app/controllers/api/concerns/response.rb",
+		"/home/gustavo/pro/rails/cp/app/controllers/api/obras_controller.rb",
+		"/home/gustavo/pro/rails/cp/app/policies/obra_policy.rb",
+		"/home/gustavo/pro/rails/cp/app/controllers/obras_controller.rb",
+		"/home/gustavo/pro/rails/cp/config/initializers/devise.rb",
+		"/home/gustavo/pro/rails/cp/config/initializers/devise_warden_auth.rb",
+		"/home/gustavo/pro/rails/cp/app/policies/user_policy.rb",
+		"/home/gustavo/pro/rails/cp/test/policies/obra_policy_test.rb",
+		"/home/gustavo/pro/rails/cp/app/models/api_user.era_rb",
+		"/home/gustavo/pro/rails/cp/app/components/index.js",
+		"/home/gustavo/pro/rails/cp/app/views/layouts/application.html.haml",
+		"/home/gustavo/pro/rails/cp/app/assets/javascripts/application.js",
+		"/home/gustavo/pro/rails/cp/app/controllers/tarefa_divididas_controller.rb",
+		"/home/gustavo/pro/rails/cp/app/models/composicao.rb",
+		"/home/gustavo/pro/rails/cp/app/cells/dividir_tarefa/show.haml",
+		"/home/gustavo/pro/rails/cp/app/cells/dividir_tarefa/select_divisoes.haml",
+		"/home/gustavo/pro/rails/cp/app/cells/tarefa_cell.rb",
+		"/home/gustavo/pro/rails/cp/app/models/tarefa_dividida.rb",
+		"/home/gustavo/pro/rails/cp/app/classes/divisor.rb",
+		"/home/gustavo/pro/rails/cp/app/cells/user/change_pass_admin.haml",
+		"/home/gustavo/pro/rails/cp/app/cells/user_cell.rb",
+		"/home/gustavo/pro/rails/cp/app/cells/forms/menu_cell.rb",
+		"/home/gustavo/pro/rails/cp/db/migrate/20200205160000_add_col_treinamento_terceiro.rb"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 119.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"About\n",
+			"About",
+			"italic"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "publications.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5918,
+								5918
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2412.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/gustavo/pro/av/original-forest-time_site/garden-index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/gustavo/pro/av/original-forest-time_site/garden-single.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17862,
+								17862
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4888.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"file": "images/av/publication_main.jpg",
+					"semi_transient": true,
+					"stack_index": 3,
+					"type": "image"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 54.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SQLTools Result":
+	{
+		"height": 108.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"output.git":
+	{
+		"height": 195.0
+	},
+	"output.git-checkout":
+	{
+		"height": 112.0
+	},
+	"output.git-commit":
+	{
+		"height": 112.0
+	},
+	"output.git-merge":
+	{
+		"height": 436.0
+	},
+	"output.git-pull":
+	{
+		"height": 285.0
+	},
+	"output.git-push":
+	{
+		"height": 308.0
+	},
+	"output.git-remote":
+	{
+		"height": 329.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 345.0
+	},
+	"pinned_build_system": "",
+	"project": "avsite.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"tarefas_calcula_disponibilidade_banco.sql",
+				"db/sql/tarefas_calcula_disponibilidade_banco.sql"
+			],
+			[
+				"horas_banc",
+				"app/controllers/horas_banco_controller.rb"
+			],
+			[
+				"cell tarefa",
+				"app/cells/tarefa_cell.rb"
+			],
+			[
+				"menu cel",
+				"app/cells/forms/menu_cell.rb"
+			],
+			[
+				"applic hel",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"tarefa",
+				"app/models/tarefa.rb"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"for/fornecedores/terceiros/table_line",
+				"app/cells/for/fornecedores/terceiros/table_line_cell.rb"
+			],
+			[
+				"controlle for forne terce",
+				"app/controllers/for/fornecedores/terceiros_controller.rb"
+			],
+			[
+				"ter terc",
+				"app/models/ter/terceiro_alocado.rb"
+			],
+			[
+				"ter terce",
+				"app/models/ter/terceiro_alocado.rb"
+			],
+			[
+				"ask_receber_devolucao",
+				"app/cells/arq/envio/ask_receber_devolucao.haml"
+			],
+			[
+				"models tipo/lo",
+				"app/models/tipo/local.rb"
+			],
+			[
+				"local",
+				"app/models/local.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"in",
+				"config/initializers/inflections.rb"
+			],
+			[
+				"fvs poli",
+				"app/policies/fvs/fvs_iten_policy.rb"
+			],
+			[
+				"controllers/obras/fv",
+				"app/controllers/obras/fvs_conformidade_controller.rb"
+			],
+			[
+				"raw",
+				"app/classes/raw_sql.rb"
+			],
+			[
+				"cells quali",
+				"app/cells/obras/qualidade_cell.rb"
+			],
+			[
+				"cells/calc premi",
+				"app/cells/calculo_premio_cell.rb"
+			],
+			[
+				"calcu prem con",
+				"app/controllers/calculo_premios_controller.rb"
+			],
+			[
+				"calculo",
+				"app/models/calculo_premio.rb"
+			],
+			[
+				"applic",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"formulari",
+				"app/controllers/formularios_controller.rb"
+			],
+			[
+				"formu",
+				"app/models/formulario.rb"
+			],
+			[
+				"databas",
+				"config/database.yml"
+			],
+			[
+				"poli",
+				"app/policies/agenda_policy.rb"
+			],
+			[
+				"simples_con",
+				"app/controllers/simples_controller.rb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"quem",
+				"app/models/quem.rb"
+			],
+			[
+				"mapa",
+				"app/models/mapa.rb"
+			],
+			[
+				"acao",
+				"app/models/acao.rb"
+			],
+			[
+				"etapan",
+				"app/models/etapan.rb"
+			],
+			[
+				"plano",
+				"app/models/plano.rb"
+			],
+			[
+				"ciclo",
+				"app/models/ciclo.rb"
+			],
+			[
+				"init ",
+				"config/initializers/inflections.rb"
+			],
+			[
+				"models fvs",
+				"app/models/fvs/fvs_formulario.rb"
+			],
+			[
+				"poli obra",
+				"app/policies/obra_policy.rb"
+			],
+			[
+				"obras poli",
+				"test/policies/obra_policy_test.rb"
+			],
+			[
+				"fvs control",
+				"app/controllers/fvs_controller.rb"
+			],
+			[
+				"obras contr",
+				"app/controllers/obras_controller.rb"
+			],
+			[
+				"user poli",
+				"app/policies/user_policy.rb"
+			],
+			[
+				"applica contro",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"model user",
+				"app/models/user.rb"
+			],
+			[
+				"init devi",
+				"config/initializers/devise.rb"
+			],
+			[
+				"applica htm",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"index.js",
+				"app/components/index.js"
+			],
+			[
+				"model compo",
+				"app/models/composicao.rb"
+			],
+			[
+				"tarefa dividi show",
+				"app/cells/dividir_tarefa/show.haml"
+			],
+			[
+				"tarefa dividi cell",
+				"app/cells/dividir_tarefa_cell.rb"
+			],
+			[
+				"tarefa divid",
+				"app/controllers/tarefa_divididas_controller.rb"
+			],
+			[
+				"tarefa cell",
+				"app/cells/tarefa_cell.rb"
+			],
+			[
+				"tarefa divi",
+				"app/models/tarefa_dividida.rb"
+			],
+			[
+				"menu cell",
+				"app/cells/forms/menu_cell.rb"
+			],
+			[
+				"change_pass",
+				"app/cells/user/change_pass.haml"
+			],
+			[
+				"user control",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"user cell",
+				"app/cells/user_cell.rb"
+			],
+			[
+				"empre",
+				"app/models/empreiteira.rb"
+			],
+			[
+				"obra_",
+				"app/models/obra_empreiteira.rb"
+			],
+			[
+				"updated_dom_id",
+				"app/views/simples/updated_dom_id.js.haml"
+			],
+			[
+				"link_incluir_secoes_obra",
+				"app/cells/treinamento/participante/link_incluir_secoes_obra.haml"
+			],
+			[
+				"obra_empr",
+				"app/models/obra_empreiteira.rb"
+			],
+			[
+				"treinamento_turma_fill_pontos.sql",
+				"db/sql/treinamento_turma_fill_pontos.sql"
+			],
+			[
+				"controller treinam parti",
+				"app/controllers/treinamento/participantes_controller.rb"
+			],
+			[
+				"funciona",
+				"app/models/funcionario.rb"
+			],
+			[
+				"apontar",
+				"app/classes/apontar_di.rb"
+			],
+			[
+				"tarefas",
+				"test/fixtures/tarefas.yml"
+			],
+			[
+				"index_canteiro",
+				"app/cells/home/index_canteiro.haml"
+			],
+			[
+				"controll obra terce",
+				"app/controllers/obras/terceiro_alocados_controller.rb"
+			],
+			[
+				"components tabl",
+				"app/components/crud/cr_data_table.vue"
+			],
+			[
+				"equi",
+				"app/models/equipe.rb"
+			],
+			[
+				"reunia",
+				"app/models/reuniao.rb"
+			],
+			[
+				"reuniao poli",
+				"app/policies/reuniao_policy.rb"
+			],
+			[
+				"reuni",
+				"app/cells/reuniao_cell.rb"
+			],
+			[
+				"partic",
+				"app/models/treinamento/participante.rb"
+			],
+			[
+				"taref",
+				"app/models/tarefa.rb"
+			],
+			[
+				"database.",
+				"config/database.yml"
+			],
+			[
+				"ponto",
+				"app/models/ponto.rb"
+			],
+			[
+				"solicitacao",
+				"app/models/sol/solicitacao.rb"
+			],
+			[
+				"solicita",
+				"app/models/can_do/solicitacao.rb"
+			],
+			[
+				"cmp date",
+				"app/components/comp/cmp-datepicker.vue"
+			],
+			[
+				"renderabl",
+				"app/cells/concerns/field_renderable.rb"
+			],
+			[
+				"mode aponta memb",
+				"app/models/apontamento/membro.rb"
+			],
+			[
+				"models ref",
+				"app/models/ref/fornecedor.rb"
+			],
+			[
+				"ref_medico",
+				"app/controllers/ref_medicoes_controller.rb"
+			],
+			[
+				"importacao",
+				"app/models/importacao.rb"
+			],
+			[
+				"user aloca",
+				"app/models/concerns/user_allocated_cp.rb"
+			],
+			[
+				" local tipo",
+				"app/models/tipo/local.rb"
+			],
+			[
+				"obra",
+				"app/models/obra.rb"
+			],
+			[
+				"apont",
+				"app/models/apontamento.rb"
+			],
+			[
+				"funcionar",
+				"app/models/funcionario.rb"
+			],
+			[
+				"onto",
+				"app/models/ponto.rb"
+			],
+			[
+				"databa",
+				"config/database.yml"
+			],
+			[
+				"funcionario",
+				"app/models/funcionario.rb"
+			],
+			[
+				"rpt1_horas_func",
+				"app/cells/report/rpt1_horas_func.haml"
+			],
+			[
+				"r1_horas_trabalhadas_funcionario_detalhe",
+				"db/sql/r1_horas_trabalhadas_funcionario_detalhe.sql"
+			],
+			[
+				"report_ce",
+				"app/cells/report_cell.rb"
+			],
+			[
+				"cells importa",
+				"app/cells/importacao_cell.rb"
+			],
+			[
+				"importa ob",
+				"app/classes/importar_obra.rb"
+			],
+			[
+				"agendam",
+				"db/sql/equipe_agendamentos.sql"
+			],
+			[
+				"planejam",
+				"app/models/planejamento_mensal.rb"
+			],
+			[
+				"planilha_ffm",
+				"app/views/obras/cronograma_ffm/planilha_ffm.xlsx.axlsx"
+			],
+			[
+				"controllers crono ffm",
+				"app/controllers/obras/cronograma_ffm_controller.rb"
+			],
+			[
+				"for/forne ter",
+				"app/controllers/for/fornecedores/terceiros_controller.rb"
+			],
+			[
+				"for/forn",
+				"app/controllers/for/fornecedores_controller.rb"
+			],
+			[
+				"diario_fill_efetivos_da_casa",
+				"db/sql/diario_fill_efetivos_da_casa.sql"
+			],
+			[
+				"diario ",
+				"app/controllers/diario_controller.rb"
+			],
+			[
+				"diario/dia",
+				"app/models/diario/diario.rb"
+			],
+			[
+				"diario/efetiv",
+				"app/models/diario/efetivo.rb"
+			],
+			[
+				"ref_data_recuperar_efetivo",
+				"db/sql/ref_data_recuperar_efetivo.sql"
+			],
+			[
+				"app/cells/obras/forn/terceiros_aloc/table_line_cell",
+				"app/cells/obras/forn/terceiros_aloc/table_line_cell.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"cells/obras/dese",
+				"app/cells/obras/desempenho/indicadores_cell.rb"
+			],
+			[
+				"applica cot",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"fvs",
+				"app/models/fvs/fvs_obra.rb"
+			],
+			[
+				"rh/perio",
+				"app/models/rh/periodo.rb"
+			],
+			[
+				"rh peri",
+				"db/sql/rh_periodos_fill.sql"
+			],
+			[
+				"obras/for/fornecedores",
+				"app/cells/obras/forn/fornecedores/form.haml"
+			],
+			[
+				"app/datatables/gn_base_datatable.rb",
+				"app/datatables/gn_base_datatable.rb"
+			],
+			[
+				"ter/terc",
+				"app/models/ter/terceiro.rb"
+			],
+			[
+				"config local ga",
+				"config/locales/gan.pt_Br.yml"
+			],
+			[
+				"obras/fornecedores/table_line",
+				"app/cells/obras/fornecedores/table_line_cell.rb"
+			],
+			[
+				"cells fvs",
+				"app/cells/fvs/conf_table_line_cell.rb"
+			],
+			[
+				"fvs_con",
+				"app/controllers/fvs_conf_controller.rb"
+			],
+			[
+				"obras/forne",
+				"app/controllers/obras/fornecedores_controller.rb"
+			],
+			[
+				"menu_cel",
+				"app/cells/forms/menu_cell.rb"
+			],
+			[
+				"obra empreit",
+				"app/models/obra_empreiteira.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cont",
+				"Contrato"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 385.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
