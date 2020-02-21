@@ -7,7 +7,7 @@ $(document).ready(function($) {
 function loadMenu() {
   console.log('Loading Menu!')
 
-  $('#header-navbar').load('http://partials/header-navbar.html')
+  $('#header-navbar').load('partials/header-navbar.html')
 
   // $.get("partials/header-navbar.html")
   // .done((data) => {
