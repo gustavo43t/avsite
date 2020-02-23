@@ -202,9 +202,3 @@ span.foot-image {
     padding-left: 0px !important;
 }
 
-
-a[target="_blank"]::after {
-  font-family: "FontAwesome";
-  content: "\f08e"
-  aria-hidden: true
-}
