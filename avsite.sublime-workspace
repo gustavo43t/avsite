@@ -523,118 +523,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 21089,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "publications.html",
-			"settings":
-			{
-				"buffer_size": 7239,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix",
-				"name": "Find Results ",
-				"scratch": true
-			}
-		},
-		{
-			"contents": "",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix",
-				"name": "Find Results ",
-				"scratch": true
-			}
-		},
-		{
-			"contents": "Searching 12 files for \"src=\"images\"\n\n/home/gustavo/pro/av/avsite/pt/capacity_building.html:\n   62:                 <a href=\"index.html\"><img src=\"images/version/garden-logo.png\" alt=\"\"></a>\n   86:                   <img src=\"images/av/capacity_building800x460.jpg\" alt=\"\" class=\"img-fluid\">\n\n/home/gustavo/pro/av/avsite/pt/clients.html:\n   62:                             <a href=\"index.html\"><img src=\"images/version/garden-logo.png\" alt=\"\"></a>\n\n/home/gustavo/pro/av/avsite/pt/evaluation.html:\n   62:                 <a href=\"index.html\"><img src=\"images/version/garden-logo.png\" alt=\"\"></a>\n   86:                   <img src=\"images/av/evaluation800x460.jpg\" alt=\"\" class=\"img-fluid\">\n\n/home/gustavo/pro/av/avsite/pt/facilitation_and_planning.html:\n   62:                             <a href=\"index.html\"><img src=\"images/version/garden-logo.png\" alt=\"\"></a>\n   86:                                 <img src=\"images/av/capacity800x460.jpg\" alt=\"\" class=\"img-fluid\">\n  132:                                             <img src=\"images/av/bird728x90.jpg\" alt=\"\" class=\"img-fluid\">\n\n/home/gustavo/pro/av/avsite/pt/index.html:\n   62:                             <a href=\"index.html\"><img src=\"images/version/garden-logo.png\" alt=\"\"></a>\n   79:                              <img src=\"images/av/facilitation534x468.jpg\" alt=\"\" class=\"img-fluid\">\n   93:                              <img src=\"images/av/evaluation534x468.jpg\" alt=\"\" class=\"img-fluid\">\n  107:                              <img src=\"images/av/capacity2.jpg\" alt=\"\" class=\"img-fluid\">\n\n/home/gustavo/pro/av/avsite/pt/paquita_bath.html:\n   63:                             <a href=\"index.html\"><img src=\"images/version/garden-logo.png\" alt=\"\"></a>\n   89:                                     <p><img src=\"images/av/paquita_brown.jpg\" class=\"float-left\" width=\"340\" alt=\"\">\n\n/home/gustavo/pro/av/avsite/pt/publications.html:\n   62:                             <a href=\"index.html\"><img src=\"images/version/garden-logo.png\" alt=\"\"></a>\n   88:                                     <p><img src=\"images/av/publication_main.jpg\" class=\"float-left\" width=\"340\" alt=\"\">\n\n/home/gustavo/pro/av/avsite/pt/resume.html:\n   62:                 <a href=\"index.html\"><img src=\"images/version/garden-logo.png\" alt=\"\"></a>\n\n17 matches across 8 files\n",
-			"settings":
-			{
-				"buffer_size": 2288,
-				"line_ending": "Unix",
-				"name": "Find Results",
-				"scratch": true
-			}
-		},
-		{
-			"file": "pt/capacity_building.html",
-			"settings":
-			{
-				"buffer_size": 9758,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pt/clients.html",
-			"settings":
-			{
-				"buffer_size": 8798,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pt/evaluation.html",
-			"settings":
-			{
-				"buffer_size": 10050,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pt/facilitation_and_planning.html",
-			"settings":
-			{
-				"buffer_size": 9606,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pt/index.html",
-			"settings":
-			{
-				"buffer_size": 21172,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pt/paquita_bath.html",
-			"settings":
-			{
-				"buffer_size": 7052,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pt/publications.html",
-			"settings":
-			{
-				"buffer_size": 7292,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pt/resume.html",
-			"settings":
-			{
-				"buffer_size": 16333,
+				"buffer_size": 7503,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -643,196 +532,25 @@
 			"file": "es/index.html",
 			"settings":
 			{
-				"buffer_size": 21164,
+				"buffer_size": 7828,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "es/clients.html",
+			"file": "css/version/garden.css",
 			"settings":
 			{
-				"buffer_size": 8806,
+				"buffer_size": 3114,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "resume.html",
+			"file": "pt/index.html",
 			"settings":
 			{
-				"buffer_size": 16295,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "paquita_bath.html",
-			"settings":
-			{
-				"buffer_size": 7004,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "partials/topbar-content.html",
-			"settings":
-			{
-				"buffer_size": 763,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "es/partials/topbar-content.html",
-			"settings":
-			{
-				"buffer_size": 781,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pt/partials/footer-content.html",
-			"settings":
-			{
-				"buffer_size": 1776,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pt/partials/header-navbar.html",
-			"settings":
-			{
-				"buffer_size": 1503,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pt/partials/topbar-content.html",
-			"settings":
-			{
-				"buffer_size": 781,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "es/partials/footer-content.html",
-			"settings":
-			{
-				"buffer_size": 1777,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "es/partials/header-navbar.html",
-			"settings":
-			{
-				"buffer_size": 1514,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "es/capacity_building.html",
-			"settings":
-			{
-				"buffer_size": 9758,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "es/evaluation.html",
-			"settings":
-			{
-				"buffer_size": 10051,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "es/facilitation_and_planning.html",
-			"settings":
-			{
-				"buffer_size": 9606,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "es/paquita_bath.html",
-			"settings":
-			{
-				"buffer_size": 7052,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "es/publications.html",
-			"settings":
-			{
-				"buffer_size": 7287,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "es/resume.html",
-			"settings":
-			{
-				"buffer_size": 16337,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "facilitation_and_planning.html",
-			"settings":
-			{
-				"buffer_size": 9561,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "evaluation.html",
-			"settings":
-			{
-				"buffer_size": 10006,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "clients.html",
-			"settings":
-			{
-				"buffer_size": 8763,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "capacity_building.html",
-			"settings":
-			{
-				"buffer_size": 9713,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "partials/footer-content.html",
-			"settings":
-			{
-				"buffer_size": 1776,
+				"buffer_size": 7753,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -846,28 +564,20 @@
 			}
 		},
 		{
-			"file": "js/partials.js",
+			"file": "paquita_bath.html",
 			"settings":
 			{
-				"buffer_size": 277,
+				"buffer_size": 7004,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/gustavo/pro/av/original-forest-time_site/garden-index.html",
+			"file": "capacity_building.html",
 			"settings":
 			{
-				"buffer_size": 26648,
+				"buffer_size": 9706,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/gustavo/pro/av/original-forest-time_site/garden-single.html",
-			"settings":
-			{
-				"buffer_size": 37457,
 				"line_ending": "Unix"
 			}
 		}
@@ -892,6 +602,14 @@
 				"Git: Quick Commit"
 			],
 			[
+				"add..",
+				"Git: Add..."
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
 				"add...",
 				"Git: Add..."
 			],
@@ -900,16 +618,8 @@
 				"Git: Push Current Branch"
 			],
 			[
-				"add..",
-				"Git: Add..."
-			],
-			[
 				"qu",
 				"Git: Quick Commit"
-			],
-			[
-				"push",
-				"Git: Push Current Branch"
 			],
 			[
 				"git pul",
@@ -1425,9 +1135,12 @@
 	"expanded_folders":
 	[
 		"/home/gustavo/pro/av/avsite",
+		"/home/gustavo/pro/av/avsite/css",
+		"/home/gustavo/pro/av/avsite/css/version",
 		"/home/gustavo/pro/av/avsite/es",
 		"/home/gustavo/pro/av/avsite/es/js",
 		"/home/gustavo/pro/av/avsite/es/partials",
+		"/home/gustavo/pro/av/avsite/fonts",
 		"/home/gustavo/pro/av/avsite/js",
 		"/home/gustavo/pro/av/avsite/partials",
 		"/home/gustavo/pro/av/avsite/pt",
@@ -1435,9 +1148,41 @@
 	],
 	"file_history":
 	[
+		"/home/gustavo/pro/av/avsite/es/index.html",
+		"/home/gustavo/pro/av/avsite/publications.html",
+		"/home/gustavo/pro/av/avsite/pt/capacity_building.html",
+		"/home/gustavo/pro/av/avsite/pt/clients.html",
+		"/home/gustavo/pro/av/avsite/pt/evaluation.html",
+		"/home/gustavo/pro/av/avsite/pt/facilitation_and_planning.html",
+		"/home/gustavo/pro/av/avsite/pt/index.html",
+		"/home/gustavo/pro/av/avsite/pt/paquita_bath.html",
+		"/home/gustavo/pro/av/avsite/pt/publications.html",
+		"/home/gustavo/pro/av/avsite/pt/resume.html",
+		"/home/gustavo/pro/av/avsite/es/clients.html",
+		"/home/gustavo/pro/av/avsite/resume.html",
+		"/home/gustavo/pro/av/avsite/paquita_bath.html",
+		"/home/gustavo/pro/av/avsite/partials/topbar-content.html",
 		"/home/gustavo/pro/av/avsite/es/partials/topbar-content.html",
+		"/home/gustavo/pro/av/avsite/pt/partials/footer-content.html",
+		"/home/gustavo/pro/av/avsite/pt/partials/header-navbar.html",
 		"/home/gustavo/pro/av/avsite/pt/partials/topbar-content.html",
+		"/home/gustavo/pro/av/avsite/es/partials/footer-content.html",
+		"/home/gustavo/pro/av/avsite/es/partials/header-navbar.html",
+		"/home/gustavo/pro/av/avsite/es/capacity_building.html",
+		"/home/gustavo/pro/av/avsite/es/evaluation.html",
+		"/home/gustavo/pro/av/avsite/es/facilitation_and_planning.html",
+		"/home/gustavo/pro/av/avsite/es/paquita_bath.html",
+		"/home/gustavo/pro/av/avsite/es/publications.html",
+		"/home/gustavo/pro/av/avsite/es/resume.html",
+		"/home/gustavo/pro/av/avsite/facilitation_and_planning.html",
+		"/home/gustavo/pro/av/avsite/evaluation.html",
+		"/home/gustavo/pro/av/avsite/clients.html",
+		"/home/gustavo/pro/av/avsite/capacity_building.html",
 		"/home/gustavo/pro/av/avsite/partials/footer-content.html",
+		"/home/gustavo/pro/av/avsite/partials/header-navbar.html",
+		"/home/gustavo/pro/av/avsite/js/partials.js",
+		"/home/gustavo/pro/av/original-forest-time_site/garden-index.html",
+		"/home/gustavo/pro/av/original-forest-time_site/garden-single.html",
 		"/home/gustavo/pro/rails/cp/app/cells/tarefa/show_insumos.haml",
 		"/home/gustavo/pro/rails/cp/app/cells/for/fornecedores/terceiros/table_line_cell.rb",
 		"/home/gustavo/pro/rails/cp/app/components/crud/calendar_show210.vue",
@@ -1478,7 +1223,6 @@
 		"/home/gustavo/pro/rails/cp/app/models/concerns/user_allocated_cp.rb",
 		"/home/gustavo/pro/rails/cp/app/models/concerns/user_allocated_gn.rb",
 		"/home/gustavo/pro/rails/cp/app/models/fvs/fiscal.rb",
-		"/home/gustavo/pro/av/avsite/facilitation_and_planning.html",
 		"/home/gustavo/pro/rails/cp/app/models/concerns/policiable.rb",
 		"/home/gustavo/pro/rails/cp/app/models/local.rb",
 		"/home/gustavo/pro/rails/cp/app/models/tipo/local.rb",
@@ -1531,38 +1275,7 @@
 		"/home/gustavo/pro/rails/cp/app/cells/acao_cell.rb",
 		"/home/gustavo/pro/rails/cp/app/uploaders/imagem_do_uploader.rb",
 		"/home/gustavo/pro/rails/cp/app/models/acao.rb",
-		"/home/gustavo/pro/rails/cp/app/models/plano.rb",
-		"/home/gustavo/pro/rails/cp/app/models/etapan.rb",
-		"/home/gustavo/pro/rails/cp/app/models/concerns/fvs_realizado_plano_de_acao.rb",
-		"/home/gustavo/pro/rails/cp/app/models/ciclo.rb",
-		"/home/gustavo/pro/rails/cp/app/models/forge/local.rb",
-		"/home/gustavo/pro/rails/cp/app/models/mapa.rb",
-		"/home/gustavo/pro/rails/cp/app/uploaders/imagem_uploader.rb",
-		"/home/gustavo/pro/rails/cp/app/models/quem.rb",
-		"/home/gustavo/pro/rails/cp/app/models/anexo.rb",
-		"/home/gustavo/pro/rails/cp/app/views/devise/sessions/new.json",
-		"/home/gustavo/pro/rails/cp/app/models/api_user.rb",
-		"/home/gustavo/pro/rails/cp/app/controllers/api/concerns/exception_handler.rb",
-		"/home/gustavo/pro/rails/cp/app/controllers/api/concerns/response.rb",
-		"/home/gustavo/pro/rails/cp/app/controllers/api/obras_controller.rb",
-		"/home/gustavo/pro/rails/cp/app/policies/obra_policy.rb",
-		"/home/gustavo/pro/rails/cp/app/controllers/obras_controller.rb",
-		"/home/gustavo/pro/rails/cp/config/initializers/devise.rb",
-		"/home/gustavo/pro/rails/cp/config/initializers/devise_warden_auth.rb",
-		"/home/gustavo/pro/rails/cp/app/policies/user_policy.rb",
-		"/home/gustavo/pro/rails/cp/test/policies/obra_policy_test.rb",
-		"/home/gustavo/pro/rails/cp/app/models/api_user.era_rb",
-		"/home/gustavo/pro/rails/cp/app/components/index.js",
-		"/home/gustavo/pro/rails/cp/app/views/layouts/application.html.haml",
-		"/home/gustavo/pro/rails/cp/app/assets/javascripts/application.js",
-		"/home/gustavo/pro/rails/cp/app/controllers/tarefa_divididas_controller.rb",
-		"/home/gustavo/pro/rails/cp/app/models/composicao.rb",
-		"/home/gustavo/pro/rails/cp/app/cells/dividir_tarefa/show.haml",
-		"/home/gustavo/pro/rails/cp/app/cells/dividir_tarefa/select_divisoes.haml",
-		"/home/gustavo/pro/rails/cp/app/cells/tarefa_cell.rb",
-		"/home/gustavo/pro/rails/cp/app/models/tarefa_dividida.rb",
-		"/home/gustavo/pro/rails/cp/app/classes/divisor.rb",
-		"/home/gustavo/pro/rails/cp/app/cells/user/change_pass_admin.haml"
+		"/home/gustavo/pro/rails/cp/app/models/plano.rb"
 	],
 	"find":
 	{
@@ -1639,7 +1352,7 @@
 	"groups":
 	[
 		{
-			"selected": 24,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -1648,15 +1361,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 21089,
+						"buffer_size": 7503,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1738,
-								1738
+								5976,
+								5976
 							]
 						],
 						"settings":
@@ -1666,27 +1379,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 441.0,
+						"translation.y": 2268.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 34,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "publications.html",
+					"file": "es/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7239,
+						"buffer_size": 7828,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1738,
-								1738
+								6014,
+								6014
 							]
 						],
 						"settings":
@@ -1696,327 +1409,57 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 441.0,
+						"translation.y": 2160.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 33,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
+					"file": "css/version/garden.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 3114,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								3112,
+								3112
 							]
 						],
 						"settings":
 						{
-							"default_dir": "/home/gustavo/pro/av/avsite/es",
-							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3348.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 24,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"default_dir": "/home/gustavo/pro/av/avsite/pt/partials",
-							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 21,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2288,
-						"regions":
-						{
-							"match":
-							{
-								"flags": 112,
-								"regions":
-								[
-									[
-										142,
-										153
-									],
-									[
-										221,
-										232
-									],
-									[
-										399,
-										410
-									],
-									[
-										546,
-										557
-									],
-									[
-										625,
-										636
-									],
-									[
-										814,
-										825
-									],
-									[
-										907,
-										918
-									],
-									[
-										1025,
-										1036
-									],
-									[
-										1187,
-										1198
-									],
-									[
-										1277,
-										1288
-									],
-									[
-										1384,
-										1395
-									],
-									[
-										1489,
-										1500
-									],
-									[
-										1657,
-										1668
-									],
-									[
-										1757,
-										1768
-									],
-									[
-										1942,
-										1953
-									],
-									[
-										2042,
-										2053
-									],
-									[
-										2212,
-										2223
-									]
-								],
-								"scope": ""
-							}
-						},
-						"selection":
-						[
-							[
-								153,
-								153
-							]
-						],
-						"settings":
-						{
-							"default_dir": "/home/gustavo/pro/av/avsite/pt/partials",
-							"detect_indentation": false,
-							"line_numbers": false,
-							"output_tag": 1,
-							"result_base_dir": "",
-							"result_file_regex": "^([^ \t].*):$",
-							"result_line_regex": "^ +([0-9]+):",
-							"scroll_past_end": true,
-							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 20,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "pt/capacity_building.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9758,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								9687,
-								9687
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2826.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 19,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "pt/clients.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8798,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2765,
-								2765
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 954.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "pt/evaluation.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 10050,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2477,
-								2477
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1044.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "pt/facilitation_and_planning.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9606,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								9356,
-								9356
-							],
-							[
-								9404,
-								9404
-							],
-							[
-								9452,
-								9452
-							],
-							[
-								9503,
-								9503
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2484.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 18,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
 					"file": "pt/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 21172,
+						"buffer_size": 7753,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4602,
-								4602
+								5735,
+								5735
 							]
 						],
 						"settings":
@@ -2029,774 +1472,11 @@
 						"translation.y": 1944.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "pt/paquita_bath.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7052,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6800,
-								6800
-							],
-							[
-								6848,
-								6848
-							],
-							[
-								6896,
-								6896
-							],
-							[
-								6947,
-								6947
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1890.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 17,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "pt/publications.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7292,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7230,
-								7230
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1998.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 16,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "pt/resume.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 16333,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								12214,
-								12214
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 4212.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "es/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 21164,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								20901,
-								20901
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 5778.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "es/clients.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8806,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2765,
-								2765
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1296.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 15,
-					"file": "resume.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 16295,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1460,
-								1460
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 441.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 32,
-					"type": "text"
-				},
-				{
-					"buffer": 16,
-					"file": "paquita_bath.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7004,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1315,
-								1315
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 518.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 29,
-					"type": "text"
-				},
-				{
-					"buffer": 17,
-					"file": "partials/topbar-content.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 763,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								763,
-								763
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 23,
-					"type": "text"
-				},
-				{
-					"buffer": 18,
-					"file": "es/partials/topbar-content.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 781,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								781,
-								781
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 19,
-					"file": "pt/partials/footer-content.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1776,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								184,
-								184
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 22,
-					"type": "text"
-				},
-				{
-					"buffer": 20,
-					"file": "pt/partials/header-navbar.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1503,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								867,
-								867
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 21,
-					"file": "pt/partials/topbar-content.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 781,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								781,
-								781
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 22,
-					"file": "es/partials/footer-content.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1777,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								185,
-								185
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 25,
-					"type": "text"
-				},
-				{
-					"buffer": 23,
-					"file": "es/partials/header-navbar.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1514,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1513,
-								1513
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 24,
-					"file": "es/capacity_building.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9758,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								8692,
-								8692
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2826.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 25,
-					"file": "es/evaluation.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 10051,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								454,
-								454
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 15,
-					"type": "text"
-				},
-				{
-					"buffer": 26,
-					"file": "es/facilitation_and_planning.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9606,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								9354,
-								9354
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2646.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 14,
-					"type": "text"
-				},
-				{
-					"buffer": 27,
-					"file": "es/paquita_bath.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7052,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6800,
-								6800
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1890.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 28,
-					"file": "es/publications.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7287,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7035,
-								7035
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1998.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 29,
-					"file": "es/resume.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 16337,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								15138,
-								15138
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 5220.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 30,
-					"file": "facilitation_and_planning.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9561,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1738,
-								1738
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 441.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 35,
-					"type": "text"
-				},
-				{
-					"buffer": 31,
-					"file": "evaluation.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 10006,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1460,
-								1460
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 441.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 36,
-					"type": "text"
-				},
-				{
-					"buffer": 32,
-					"file": "clients.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8763,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1748,
-								1748
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 441.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 37,
-					"type": "text"
-				},
-				{
-					"buffer": 33,
-					"file": "capacity_building.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9713,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1462,
-								1462
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 441.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 28,
-					"type": "text"
-				},
-				{
-					"buffer": 34,
-					"file": "partials/footer-content.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1776,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 38,
-					"type": "text"
-				},
-				{
-					"buffer": 35,
+					"buffer": 4,
 					"file": "partials/header-navbar.html",
 					"semi_transient": false,
 					"settings":
@@ -2808,13 +1488,12 @@
 						"selection":
 						[
 							[
-								598,
-								598
+								676,
+								676
 							]
 						],
 						"settings":
 						{
-							"open_with_edit": true,
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
@@ -2823,53 +1502,54 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 27,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 36,
-					"file": "js/partials.js",
+					"buffer": 5,
+					"file": "paquita_bath.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 277,
+						"buffer_size": 7004,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								111,
-								111
+								2205,
+								2205
 							]
 						],
 						"settings":
 						{
-							"open_with_edit": true,
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1080.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 26,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 37,
-					"file": "/home/gustavo/pro/av/original-forest-time_site/garden-index.html",
+					"buffer": 6,
+					"file": "capacity_building.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 26648,
+						"buffer_size": 9706,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1984,
-								1984
+								4151,
+								4151
 							]
 						],
 						"settings":
@@ -2879,40 +1559,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 621.0,
+						"translation.y": 1512.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 31,
-					"type": "text"
-				},
-				{
-					"buffer": 38,
-					"file": "/home/gustavo/pro/av/original-forest-time_site/garden-single.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 37457,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2243,
-								2243
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 621.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 30,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
