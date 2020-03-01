@@ -170,6 +170,7 @@ a:focus,
 p.testimonial {
     margin-top: 26px;
     margin-bottom: 5px;
+    font-style: italic;
 }
 
 .lang-off {
